@@ -6,10 +6,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
+  - [Links](#links)
 
 ### Screenshot
 
 ![](./Screenshot/desktop-screenshot.jpg)
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://rohitk920.github.io/Frontend-Mentor-QR-code-component-solution/)
 
 ### Built with
 
